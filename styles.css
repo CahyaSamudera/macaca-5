@@ -69,9 +69,8 @@ p {
   background: rgba(0, 0, 0, 1);
 }
 .loader img {
-  width: 300px;
+  width: 310px;
   height: auto;
-
 }
 .disappear {
   animation: vanish 1s forwards;
